@@ -7,4 +7,4 @@
 + 指定存储路径：image/
 + 设定自定义域名：https://cdn.jsdelivr.net/gh/rjq123/imageRepository
 + ![image](https://user-images.githubusercontent.com/53927933/164142372-fbc0d9de-7e73-4115-9d62-b0cdcbb74744.png)
-+ ![test](https://raw.githubusercontent.com/rjq123/imageRepository/main/QQ.png)
++ ![test](https://cdn.jsdelivr.net/gh/rjq123/imageRepository/main/QQ.png)
